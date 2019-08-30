@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=initialRoom\ name
+comment0.target=Thief(Room,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Thief\r\n
+comment1.params=
+comment1.target=int\ throwDice()
+comment1.text=\r\ngives\ a\ random\ nuber\ between\ 1\ and\ 6\ \r\n
+comment2.params=
+comment2.target=Item\ itemFinder()
+comment2.text=\r\n\ find\ items\r\n
+comment3.params=
+comment3.target=Item\ randomItem()
+comment3.text=\r\n\ gets\ a\ random\ item\r\n
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\r\n\ mkaes\ the\ actions\r\n
+numComments=5

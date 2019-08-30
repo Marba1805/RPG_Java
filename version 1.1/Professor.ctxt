@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=initalRoom\ names
+comment0.target=Professor(Room,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Proffessor\r\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=int\ throwDice()
+comment2.text=\r\n\ this\ method\ g7enerates\ a\ arndom\ nuber\ between\ 1\ and\ 6,\ guiving\ the\ same\r\n\ functionalitie\ as\ a\ die\r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \r\n
+comment3.params=
+comment3.target=java.lang.String\ randomDirection()
+comment3.text=\r\n\ gives\ a\ random\ direction\ in\ whitch\ to\ go\r\n
+comment4.params=
+comment4.target=void\ act()
+numComments=5
